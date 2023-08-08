@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
 <h3 align="center">A DevSecOps developer from Ufa, Russia</h3>
 
-- 🔭 I’m currently studying in **UUST**
+- 🔭 **UUST** student
 
 - 🌱 I’m currently learning **computer science, cybersecurity**
 
